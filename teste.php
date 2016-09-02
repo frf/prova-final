@@ -6,4 +6,4 @@
  * Time: 21:28
  */
 
-echo "HELLO";
+echo "HELLO WORLD";
